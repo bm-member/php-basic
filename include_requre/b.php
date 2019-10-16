@@ -1,5 +1,6 @@
 <?php 
 
-include 'z.php';
+include 'a.php';
+include 'z.php'; // file does not exist
 
-echo "Hello PHP";
+echo "I am B."; // work

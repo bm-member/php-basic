@@ -1,5 +1,6 @@
 <?php 
 
-require 'z.php';
+require 'a.php';
+require 'z.php'; // file does not exist
 
-echo "Hello PHP";
+echo "I am C."; // not work

@@ -1,6 +1,5 @@
 <?php 
 
-$a = "Apple";
+$a = "I am A.";
 
-// echo $a;
-echo $b;
+echo $a;

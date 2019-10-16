@@ -1,3 +1,3 @@
 <?php
 
-setcookie('name', 'Mg Mg', time() - 60); // 1 min 
+setcookie('name', '', time() - 60); // 1 min 
